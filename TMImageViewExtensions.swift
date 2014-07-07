@@ -1,6 +1,5 @@
 //
 //  TMImageViewExtensions.swift
-//  SampleApiCall
 //
 //  Created by Thahir Maheen on 7/7/14.
 //  Copyright (c) 2014 Thahir Maheen. All rights reserved.
